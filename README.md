@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharjaiswal7" alt="tusharjaiswal7" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src=">
+
 <p align="left"> <a href="https://twitter.com/jtushar08" target="blank"><img src="https://img.shields.io/twitter/follow/jtushar08?logo=twitter&style=for-the-badge" alt="jtushar08" /></a> </p>
 
 
