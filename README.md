@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **tushar.08j@gmail.com**
 
-- 💻Visit my Website for more details **https://tushar08j.wixsite.com/tushar**
+- 💻Visit my Website for more details **https://tusharjaiswal.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vplRboVrohSk_ZzS1fcaclhI0rVMetUX/view](https://drive.google.com/file/d/1vplRboVrohSk_ZzS1fcaclhI0rVMetUX/view)
 
