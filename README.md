@@ -34,9 +34,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jtushar08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jtushar08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar jaiswal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tushar-jaiswal08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar jaiswal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16091743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16091743" height="30" width="40" /></a>
-<a href="https://fb.com/tushar jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar jaiswal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tushar.jaiswal.1276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar jaiswal" height="30" width="40" /></a>
 <a href="https://instagram.com/the_beast08_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_beast08_" height="30" width="40" /></a>
 </p>
 
