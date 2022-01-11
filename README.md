@@ -19,11 +19,13 @@
 
 - 🤝 I’m looking for help with **Kivy**
 
-- 👨‍💻 All of my projects are available at [https://tushar08j.wixsite.com/tushar](https://tushar08j.wixsite.com/tushar)
+- 👨‍💻 All of my projects are available at **https://github.com/TusharJaiswal7?tab=repositories**
 
 - 💬 Ask me about **Python...**
 
 - 📫 How to reach me **tushar.08j@gmail.com**
+
+- 💻Visit my Website for more details **https://tushar08j.wixsite.com/tushar**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vplRboVrohSk_ZzS1fcaclhI0rVMetUX/view](https://drive.google.com/file/d/1vplRboVrohSk_ZzS1fcaclhI0rVMetUX/view)
 
